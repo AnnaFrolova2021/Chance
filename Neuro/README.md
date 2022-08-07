@@ -11,6 +11,7 @@ NeuroStartUp - динамически развивающийся стартап,
 
 ![](https://github.com/netology-ds-team/git-homework/blob/main/1_self/logo.png)
 
+
 Мы на столько крутые, что уже успели поработать со следующими команиями:
 
 ООО «Рога и копыта»
